@@ -1,0 +1,8 @@
+#ajax-loader-cform{
+    content: "\f2f1";  /* this is your text. You can also use UTF-8 character codes as I do here */
+    font-family: FontAwesome;
+    height: 16px;
+    margin: 20px auto 0;
+    width: 16px;
+    display: none;
+}
